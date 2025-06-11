@@ -66,8 +66,8 @@ I'm a results-oriented **Junior DevOps Engineer** with 1.5+ years of hands-on ex
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yaswanthbandela/)
-- [Email](mailto:bykumar95@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/yaswanth-kumar-bandela-450b84244/)
+- [Email](mailto:yaswanthkumarbandela@gmail.com)
 
 ---
 
