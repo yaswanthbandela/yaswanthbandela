@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yaswanth Kumar Bandela
 
-🌍 Hyderabad, India &nbsp;|&nbsp; 📧 bykumar95@gmail.com &nbsp;|&nbsp; ☁️ AWS Certified Solutions Architect - Associate
+🌍 Hyderabad, India &nbsp;|&nbsp; 📧 yaswanthkumarbandela@gmail.com &nbsp;|&nbsp; ☁️ AWS Certified Solutions Architect - Associate
 
 ---
 
