@@ -22,7 +22,7 @@ I'm a results-oriented **Junior DevOps Engineer** with 1.5+ years of hands-on ex
   Python, Shell scripting
 
 - **Web & Databases:**  
-  Nginx, PostgreSQL, WordPress
+  Nginx, MySQL, PostgreSQL, WordPress
 
 - **Security & Cost Optimization:**  
   WAF, GuardDuty, IAM, Security Groups, Lambda scheduling, Budget Alarms
